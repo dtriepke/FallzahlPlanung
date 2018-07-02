@@ -11,3 +11,5 @@ This code is for the detection of the split rate $r$ for the distribution of the
 
 ## Terminal and Output
 ![](dashboard.png)
+## Link
+https://dennistriepke.shinyapps.io/FallzahlPlanung/

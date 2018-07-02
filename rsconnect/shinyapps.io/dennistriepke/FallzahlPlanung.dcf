@@ -1,0 +1,12 @@
+name: FallzahlPlanung
+title: FallzahlPlanung
+username:
+account: dennistriepke
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 371809
+bundleId: 1460652
+url: https://dennistriepke.shinyapps.io/FallzahlPlanung/
+when: 1530534614.13933
+asMultiple: FALSE
+asStatic: FALSE
